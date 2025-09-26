@@ -20,8 +20,10 @@ Welcome to my GitHub profile!
 
 ---
 
-## 📊 GitHub Stats
-![Aathisankar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aathisankar-A&show_icons=true&theme=radical)  
+## 📈 LeetCode Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/Aathisankar_A?theme=dark&font=Karma&ext=heatmap)
+
 
 ---
 
